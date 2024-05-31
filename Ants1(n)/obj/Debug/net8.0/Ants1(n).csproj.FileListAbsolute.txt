@@ -1,0 +1,14 @@
+C:\Users\jhoan\source\repos\Ants1(n)\Ants1(n)\bin\Debug\net8.0\Ants1(n).exe
+C:\Users\jhoan\source\repos\Ants1(n)\Ants1(n)\bin\Debug\net8.0\Ants1(n).deps.json
+C:\Users\jhoan\source\repos\Ants1(n)\Ants1(n)\bin\Debug\net8.0\Ants1(n).runtimeconfig.json
+C:\Users\jhoan\source\repos\Ants1(n)\Ants1(n)\bin\Debug\net8.0\Ants1(n).dll
+C:\Users\jhoan\source\repos\Ants1(n)\Ants1(n)\bin\Debug\net8.0\Ants1(n).pdb
+C:\Users\jhoan\source\repos\Ants1(n)\Ants1(n)\obj\Debug\net8.0\Ants1(n).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhoan\source\repos\Ants1(n)\Ants1(n)\obj\Debug\net8.0\Ants1(n).AssemblyInfoInputs.cache
+C:\Users\jhoan\source\repos\Ants1(n)\Ants1(n)\obj\Debug\net8.0\Ants1(n).AssemblyInfo.cs
+C:\Users\jhoan\source\repos\Ants1(n)\Ants1(n)\obj\Debug\net8.0\Ants1(n).csproj.CoreCompileInputs.cache
+C:\Users\jhoan\source\repos\Ants1(n)\Ants1(n)\obj\Debug\net8.0\Ants1(n).dll
+C:\Users\jhoan\source\repos\Ants1(n)\Ants1(n)\obj\Debug\net8.0\refint\Ants1(n).dll
+C:\Users\jhoan\source\repos\Ants1(n)\Ants1(n)\obj\Debug\net8.0\Ants1(n).pdb
+C:\Users\jhoan\source\repos\Ants1(n)\Ants1(n)\obj\Debug\net8.0\Ants1(n).genruntimeconfig.cache
+C:\Users\jhoan\source\repos\Ants1(n)\Ants1(n)\obj\Debug\net8.0\ref\Ants1(n).dll
