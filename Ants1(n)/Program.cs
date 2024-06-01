@@ -32,12 +32,14 @@ public class Program
                     aCount++;
                 }
             }
-            else if (antString[i] == 'n')
+
+           else if (antString[i] == 'n')
             {
-                if (!(i > 0 && antString[i - 1] == 'a' && i + 1 < antString.Length && antString[i + 1] == 't'))
+                if (!(i > 0 && antString[i - 1] == 'a' && i + 1 < antString.Length && antString[i + 2] == 't'))
                 {
                     nCount++;
                 }
+
             }
             else if (antString[i] == 't')
             {
@@ -46,6 +48,7 @@ public class Program
                     tCount++;
                 }
             }
+                
         }
 
         return Math.Max(Math.Max(aCount, nCount), tCount);
